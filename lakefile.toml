@@ -1,0 +1,10 @@
+name = "stdleanexp"
+version = "0.1.0"
+defaultTargets = ["stdleanexp"]
+
+[[lean_lib]]
+name = "Stdleanexp"
+
+[[lean_exe]]
+name = "stdleanexp"
+root = "Main"
